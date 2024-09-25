@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Vered 👋
+# Welcome to my protfolio home page
 
 **VeredBen/VeredBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
